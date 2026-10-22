@@ -18,5 +18,6 @@ public class ProductCalculation{
         System.out.printf("Subtotal : %.2f%n",t_price);
         System.out.printf("Discount : %.2f%n",discount);
         System.out.printf("Final Price : %.2f%n",f_price);
+        in.close();
     }
 }

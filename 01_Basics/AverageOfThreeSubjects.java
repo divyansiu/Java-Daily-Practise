@@ -18,6 +18,8 @@ public class AverageOfThreeSubjects{
         System.out.println("Total : "+ total);
         double avg = (sub1+sub2+sub3)/3.0;
         System.out.println("Average : "+avg);
+
+        in.close();
         
     }
 }

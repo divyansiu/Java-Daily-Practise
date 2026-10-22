@@ -14,5 +14,6 @@ public class ScannerInput{
         System.out.println("Age : "+age);
         System.out.println("CGPA : "+cgpa);
         System.out.println("Grade : "+grade);
+        in.close();
     }
 }

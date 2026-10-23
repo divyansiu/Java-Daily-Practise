@@ -32,6 +32,7 @@ public class CalculatorSwitch{
 
             default :
                 System.out.println("Invalid operator !!");
+            in.close();    
         }
     }
 }

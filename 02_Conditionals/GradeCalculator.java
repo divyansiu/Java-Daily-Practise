@@ -21,6 +21,6 @@ public class GradeCalculator{
             System.out.println("Grade : D");
         }else{
             System.out.println("Grade : F");
-        }
+        }in.close();
     }
 }

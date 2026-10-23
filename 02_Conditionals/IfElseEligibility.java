@@ -10,6 +10,6 @@ public class IfElseEligibility{
             System.out.println("Eligible for admission.");
         }else{
             System.out.println("Not Eligible for admission.");
-        }
+        }in.close();
     }
 }

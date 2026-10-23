@@ -15,6 +15,6 @@ public class NestedIfEligibility{
             }
         }else{
             System.out.println("Underage");
-        }
+        }in.close();
     }
 }

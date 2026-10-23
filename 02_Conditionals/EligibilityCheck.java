@@ -9,6 +9,6 @@ public class EligibilityCheck{
         double marks = in.nextDouble();
         System.out.println("Age : "+age);
         System.out.println("Marks : "+marks);
-        System.out.println("Eligibility : "+ (age>=18 && marks>=60));
+        System.out.println("Eligibility : "+ (age>=18 && marks>=60));in.close();
     }
 }

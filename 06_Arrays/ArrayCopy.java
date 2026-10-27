@@ -19,6 +19,6 @@ public class ArrayCopy {
         for(int i = 0 ; i < arr.length ; i++){
             copy_arr[i] = arr [i] ;
             System.out.print(copy_arr[i]+",");
-        }
+        }in.close();
     }
 }

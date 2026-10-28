@@ -32,6 +32,6 @@ public class ArrayLinearSearch {
             System.out.printf("Target Found and the Target is in Index %d Or in Place %d.",x,x+1);
         }else{
             System.out.println("Target Not Found");
-        }
+        }in.close();
     }
 }

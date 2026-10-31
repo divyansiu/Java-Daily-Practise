@@ -22,6 +22,6 @@ public class ArraySumAndAverage {
         double avg = (double) sum/n ;
         System.out.println("Sum of Integers in Array = "+sum);
         System.out.println("Average of Integers in Array = "+avg);
-        
+        in.close();
     }
 }

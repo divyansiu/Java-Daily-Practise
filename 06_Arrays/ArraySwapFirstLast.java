@@ -24,6 +24,6 @@ public class ArraySwapFirstLast {
             if(i!=arr.length-1){
                 System.out.print(", ");
             }
-        }
+        }in.close();
     }
 }
